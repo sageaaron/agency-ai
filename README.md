@@ -1,16 +1,24 @@
-# React + Vite
+Agency AI – Frontend Portfolio Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Agency AI is a responsive, production-ready web application built to demonstrate modern frontend development skills, UI/UX implementation, and component-driven architecture. The project simulates an AI-focused agency landing experience with a clean, professional interface and smooth user interaction.
 
-Currently, two official plugins are available:
+Developed using React and Material UI, the application emphasizes reusable components, scalable structure, and efficient state management. It showcases the ability to build maintainable frontend systems while delivering a polished user experience across devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 Live Demo: https://agency-ai-phi-seven.vercel.app/
 
-## React Compiler
+Tech Stack:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React
+Material UI
+JavaScript (ES6+)
+Vercel (Deployment)
 
-## Expanding the ESLint configuration
+Highlights:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fully responsive, mobile-first design
+Clean and modular component architecture
+Focus on performance and usability
+Production deployment with Vercel
+Strong emphasis on UI consistency and maintainability
+
+This project reflects practical experience in building modern React applications and delivering user-focused interfaces aligned with real-world development standards.
